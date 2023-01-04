@@ -1,0 +1,1 @@
+生成的文件會在桌面上 名字叫 save_jam_word.txt
